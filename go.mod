@@ -14,7 +14,7 @@ require (
 	github.com/rs/zerolog v1.28.0
 	github.com/sergi/go-diff v1.2.0
 	github.com/stretchr/testify v1.8.1
-	golang.org/x/tools v0.2.0
+	golang.org/x/tools v0.3.0
 	google.golang.org/grpc v1.50.1
 )
 
@@ -25,9 +25,9 @@ require (
 	github.com/mattn/go-colorable v0.1.12 // indirect
 	github.com/mattn/go-isatty v0.0.14 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
-	golang.org/x/mod v0.6.0 // indirect
-	golang.org/x/net v0.1.0 // indirect
-	golang.org/x/sys v0.1.0 // indirect
+	golang.org/x/mod v0.7.0 // indirect
+	golang.org/x/net v0.2.0 // indirect
+	golang.org/x/sys v0.2.0 // indirect
 	golang.org/x/text v0.4.0 // indirect
 	google.golang.org/genproto v0.0.0-20221027153422-115e99e71e1c // indirect
 	google.golang.org/protobuf v1.28.1 // indirect
