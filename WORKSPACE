@@ -4,9 +4,9 @@ load("@bazel_tools//tools/build_defs/repo:http.bzl", "http_archive")
 
 http_archive(
     name = "rules_python",
-    sha256 = "fab7608fc15a2bc2cc42c137a7eff516d51376aa1fd237023f44c7e2b1cac681",
-    strip_prefix = "rules_python-0.15.0",
-    url = "https://github.com/bazelbuild/rules_python/archive/refs/tags/0.15.0.tar.gz",
+    sha256 = "bc4e59e17c7809a5b373ba359e2c974ed2386c58634819ac5a89c0813c15705c",
+    strip_prefix = "rules_python-0.15.1",
+    url = "https://github.com/bazelbuild/rules_python/archive/refs/tags/0.15.1.tar.gz",
 )
 
 load("//:repositories.bzl", "contrib_rules_jvm_deps", "contrib_rules_jvm_gazelle_deps")
