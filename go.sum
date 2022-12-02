@@ -17,6 +17,7 @@ github.com/aristanetworks/goarista v0.0.0-20221020133546-f7c90b2180b7/go.mod h1:
 github.com/aristanetworks/goarista v0.0.0-20221021130507-33112d517533/go.mod h1:r5H91DFTCi2FB1JrUiNMQB7LvT3Whgg74Wo1emXCdfg=
 github.com/aristanetworks/goarista v0.0.0-20221025173634-ad887a743834/go.mod h1:r5H91DFTCi2FB1JrUiNMQB7LvT3Whgg74Wo1emXCdfg=
 github.com/aristanetworks/goarista v0.0.0-20221101123548-fda6a90d1d2b/go.mod h1:6Oq8lvpleFE+gXVaWdwrK/Ivtn/Pn+9o0mXsqdecNIo=
+github.com/aristanetworks/goarista v0.0.0-20221201093900-3c81c42f7216/go.mod h1:NO9I64T3rWKOJ66nZg+bKU20L9/RGPuvxUiyNBXihV4=
 github.com/bazelbuild/bazel-gazelle v0.26.0 h1:/gh8S450+nfr3wYI6bTYEi297obbVcMObavhPuB7LVo=
 github.com/bazelbuild/bazel-gazelle v0.26.0/go.mod h1:9LocFQkzkop0G726hCt+oa5bEQSZd3shKLlZUcxRZ4I=
 github.com/bazelbuild/bazel-gazelle v0.27.0 h1:+/ZhUxlDy4XnyMIGeKkbRZoIGssy1eO51GijwIvvuwE=
@@ -239,6 +240,8 @@ google.golang.org/genproto v0.0.0-20221010155953-15ba04fc1c0e h1:halCgTFuLWDRD61
 google.golang.org/genproto v0.0.0-20221010155953-15ba04fc1c0e/go.mod h1:3526vdqwhZAwq4wsRUaVG555sVgsNmIjRtO7t/JH29U=
 google.golang.org/genproto v0.0.0-20221027153422-115e99e71e1c h1:QgY/XxIAIeccR+Ca/rDdKubLIU9rcJ3xfy1DC/Wd2Oo=
 google.golang.org/genproto v0.0.0-20221027153422-115e99e71e1c/go.mod h1:CGI5F/G+E5bKwmfYo09AXuVN4dD894kIKUFmVbP2/Fo=
+google.golang.org/genproto v0.0.0-20221130183247-a2ec334bae6f h1:G9JGt1JAvAkcv0+x6gGEWkgjEPxsI3fQhNq6L/DJTZ8=
+google.golang.org/genproto v0.0.0-20221130183247-a2ec334bae6f/go.mod h1:rZS5c/ZVYMaOGBfO68GWtjOw/eLaZM1X6iVtgjZ+EWg=
 google.golang.org/grpc v1.19.0/go.mod h1:mqu4LbDTu4XGKhr4mRzUsmM4RtVoemTSY81AxZiDr8c=
 google.golang.org/grpc v1.23.0/go.mod h1:Y5yQAOtifL1yxbo5wqy6BxZv8vAUGQwXBOALyacEbxg=
 google.golang.org/grpc v1.25.1/go.mod h1:c3i+UQWmh7LiEpx4sFZnkU36qjEYZ0imhYfXVyQciAY=
