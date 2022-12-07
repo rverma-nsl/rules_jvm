@@ -6,7 +6,7 @@ require (
 	github.com/aristanetworks/goarista v0.0.0-20221201093900-3c81c42f7216
 	github.com/bazelbuild/bazel-gazelle v0.28.0
 	github.com/bazelbuild/buildtools v0.0.0-20221110131218-762712d8ce3f
-	github.com/bazelbuild/rules_go v0.36.0
+	github.com/bazelbuild/rules_go v0.37.0
 	github.com/google/btree v1.1.2
 	github.com/google/go-cmp v0.5.9
 	github.com/google/uuid v1.3.0
