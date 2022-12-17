@@ -1,6 +1,6 @@
 module github.com/bazel-contrib/rules_jvm
 
-go 1.18
+go 1.19
 
 require (
 	github.com/aristanetworks/goarista v0.0.0-20221201093900-3c81c42f7216
