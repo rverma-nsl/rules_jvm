@@ -5,7 +5,7 @@ go 1.19
 require (
 	github.com/aristanetworks/goarista v0.0.0-20230103130050-42e5bb9ec693
 	github.com/bazelbuild/bazel-gazelle v0.28.0
-	github.com/bazelbuild/buildtools v0.0.0-20230106040415-5c511d89307e
+	github.com/bazelbuild/buildtools v0.0.0-20230109211708-de1a539b56e7
 	github.com/bazelbuild/rules_go v0.37.0
 	github.com/google/btree v1.1.2
 	github.com/google/go-cmp v0.5.9
