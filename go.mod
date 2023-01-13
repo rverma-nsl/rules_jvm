@@ -12,7 +12,7 @@ require (
 	github.com/google/uuid v1.3.0
 	github.com/hashicorp/golang-lru v0.6.0
 	github.com/rs/zerolog v1.28.0
-	github.com/sergi/go-diff v1.2.0
+	github.com/sergi/go-diff v1.3.1
 	github.com/stretchr/testify v1.8.1
 	golang.org/x/tools v0.5.0
 	google.golang.org/grpc v1.52.0
