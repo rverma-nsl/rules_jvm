@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/aristanetworks/goarista v0.0.0-20230112233726-4e065d116555
-	github.com/bazelbuild/bazel-gazelle v0.28.0
+	github.com/bazelbuild/bazel-gazelle v0.29.0
 	github.com/bazelbuild/buildtools v0.0.0-20230113180850-180a94ab3a3a
 	github.com/bazelbuild/rules_go v0.37.0
 	github.com/google/btree v1.1.2
@@ -19,7 +19,7 @@ require (
 )
 
 require (
-	github.com/bmatcuk/doublestar/v4 v4.2.0 // indirect
+	github.com/bmatcuk/doublestar/v4 v4.6.0 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/mattn/go-colorable v0.1.12 // indirect
