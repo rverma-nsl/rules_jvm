@@ -27,6 +27,8 @@ github.com/bazelbuild/bazel-gazelle v0.27.0 h1:+/ZhUxlDy4XnyMIGeKkbRZoIGssy1eO51
 github.com/bazelbuild/bazel-gazelle v0.27.0/go.mod h1:2K6B42/loq8ext4JObmam4gTYx4En1MUSzHFKQF8hPM=
 github.com/bazelbuild/bazel-gazelle v0.28.0 h1:sPdMMujcMt5jeSLGFko5yF1XBD5MDqm6YeFoXx9ORm4=
 github.com/bazelbuild/bazel-gazelle v0.28.0/go.mod h1:5Qer6FCMBeotA8eQYJEPxn2eAbHmTApPxyd7aD4A0S8=
+github.com/bazelbuild/bazel-gazelle v0.29.0 h1:uFYs0rkVtEwZ6PlVQAXkBrIvWtIljMG8YR67LGiopeY=
+github.com/bazelbuild/bazel-gazelle v0.29.0/go.mod h1:L6O3ptp0eoujyGx2KyJrv86w93S0hxgh9HB3Cbw0cdI=
 github.com/bazelbuild/buildtools v0.0.0-20220531122519-a43aed7014c8 h1:fmdo+fvvWlhldUcqkhAMpKndSxMN3vH5l7yow5cEaiQ=
 github.com/bazelbuild/buildtools v0.0.0-20220531122519-a43aed7014c8/go.mod h1:689QdV3hBP7Vo9dJMmzhoYIyo/9iMhEmHkJcnaPRCbo=
 github.com/bazelbuild/buildtools v0.0.0-20220822174408-8116150720ab h1:UyXpTgIKY10HZZD3kbIvXV7WRgGmb9IPgtjkLVd+HNg=
@@ -65,6 +67,8 @@ github.com/bazelbuild/rules_go v0.37.0 h1:vbnESGv/t2WgGEbXatwbXAS95dTx93Lv6Uh5Qk
 github.com/bazelbuild/rules_go v0.37.0/go.mod h1:TMHmtfpvyfsxaqfL9WnahCsXMWDMICTw7XeK9yVb+YU=
 github.com/bmatcuk/doublestar/v4 v4.2.0 h1:Qu+u9wR3Vd89LnlLMHvnZ5coJMWKQamqdz9/p5GNthA=
 github.com/bmatcuk/doublestar/v4 v4.2.0/go.mod h1:xBQ8jztBU6kakFMg+8WGxn0c6z1fTSPVIjEY1Wr7jzc=
+github.com/bmatcuk/doublestar/v4 v4.6.0 h1:HTuxyug8GyFbRkrffIpzNCSK4luc0TY3wzXvzIZhEXc=
+github.com/bmatcuk/doublestar/v4 v4.6.0/go.mod h1:xBQ8jztBU6kakFMg+8WGxn0c6z1fTSPVIjEY1Wr7jzc=
 github.com/census-instrumentation/opencensus-proto v0.2.1/go.mod h1:f6KPmirojxKA12rnyqOA5BBL4O983OfeGPqjHWSTneU=
 github.com/cespare/xxhash/v2 v2.1.1/go.mod h1:VGX0DQ3Q6kWi7AoAeZDth3/j3BFtOZR5XLFGgcrjCOs=
 github.com/chzyer/logex v1.1.10/go.mod h1:+Ywpsq7O8HXn0nuIou7OrIPyXbp3wmkHB+jjWRnGsAI=
@@ -174,6 +178,7 @@ golang.org/x/lint v0.0.0-20190313153728-d0100b6bd8b3/go.mod h1:6SW0HCj/g11FgYtHl
 golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4 h1:6zppjxzCulZykYSLyVDYbneBfbaBIQPYMevg0bEwv2s=
 golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4/go.mod h1:jJ57K6gSWd91VN4djpZkiMVwK6gcyfeH4XE8wZrZaV4=
 golang.org/x/mod v0.6.0/go.mod h1:4mET923SAdbXp2ki8ey+zGs1SLqsuM2Y0uvdZR/fUNI=
+golang.org/x/mod v0.7.0 h1:LapD9S96VoQRhi/GrNTqeBJFrUjs5UHCAtTlgwA5oZA=
 golang.org/x/mod v0.7.0/go.mod h1:iBbtSCu2XBx23ZKBPSOrRkjjQPZFPuis4dIYUhu/chs=
 golang.org/x/net v0.0.0-20180724234803-3673e40ba225/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=
 golang.org/x/net v0.0.0-20180826012351-8a410e7b638d/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=
