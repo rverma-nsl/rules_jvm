@@ -50,9 +50,9 @@ def contrib_rules_jvm_deps():
     maybe(
         http_archive,
         name = "rules_jvm_external",
-        sha256 = "455674f822a3eadb76366aae33b5e455eac1cd795232c1f39e82f9f1cacd394a",
-        strip_prefix = "rules_jvm_external-0b272fde8a3e3db02767aaf6e7ec1ce35ef13ad1",
-        url = "https://github.com/bazelbuild/rules_jvm_external/archive/0b272fde8a3e3db02767aaf6e7ec1ce35ef13ad1.zip",
+        sha256 = "baa8a9729f12fc443c2aeca11e64511470dd6b9292ee3f35cf068ab7d0f1793c",
+        strip_prefix = "rules_jvm_external-5d266dd75c4677aeb86ea6c0b23542c114689362",
+        url = "https://github.com/bazelbuild/rules_jvm_external/archive/5d266dd75c4677aeb86ea6c0b23542c114689362.zip",
     )
 
 def contrib_rules_jvm_gazelle_deps():
