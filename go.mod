@@ -3,7 +3,7 @@ module github.com/bazel-contrib/rules_jvm
 go 1.19
 
 require (
-	github.com/aristanetworks/goarista v0.0.0-20230123171644-73f8578a8ebb
+	github.com/aristanetworks/goarista v0.0.0-20230201111013-60ac67a47c22
 	github.com/bazelbuild/bazel-gazelle v0.29.0
 	github.com/bazelbuild/buildtools v0.0.0-20230127124510-cf446296fb76
 	github.com/bazelbuild/rules_go v0.38.1
@@ -29,7 +29,7 @@ require (
 	golang.org/x/net v0.5.0 // indirect
 	golang.org/x/sys v0.4.0 // indirect
 	golang.org/x/text v0.6.0 // indirect
-	google.golang.org/genproto v0.0.0-20221227171554-f9683d7f8bef // indirect
+	google.golang.org/genproto v0.0.0-20230131230820-1c016267d619 // indirect
 	google.golang.org/protobuf v1.28.1 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
