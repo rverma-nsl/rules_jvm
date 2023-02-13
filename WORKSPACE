@@ -108,7 +108,7 @@ frozen_deps_pmi()
 # These are used for our own tests.
 maven_install(
     artifacts = [
-        "com.google.code.findbugs:annotations:3.0.1",
+        "com.google.code.findbugs:annotations:3.0.1u2",
         "com.google.googlejavaformat:google-java-format:1.15.0",
 
         # These can be versioned independently of the versions in `repositories.bzl`
