@@ -89,7 +89,7 @@ maven_install(
                 },
             ],
         },
-        "org.slf4j:slf4j-api:1.7.32",
+        "org.slf4j:slf4j-api:1.7.36",
         "org.slf4j:slf4j-jdk14:1.7.32",
     ] + IO_GRPC_GRPC_JAVA_ARTIFACTS,
     fail_if_repin_required = True,
