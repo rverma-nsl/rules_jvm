@@ -9,7 +9,7 @@ require (
 	github.com/bazelbuild/bazel-gazelle v0.29.0
 	github.com/bazelbuild/buildtools v0.0.0-20250122150430-a84ab464140c
 	github.com/bazelbuild/rules_go v0.38.1
-	github.com/google/btree v1.1.2
+	github.com/google/btree v1.1.3
 	github.com/google/go-cmp v0.6.0
 	github.com/google/uuid v1.6.0
 	github.com/hashicorp/golang-lru v0.6.0
